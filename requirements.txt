@@ -1,0 +1,8 @@
+The package requirements for this Python program are as follows:
+
+```
+requests
+beautifulsoup4
+```
+
+Please note that the generated `requirements.txt` file does not include the version numbers of the packages. If you have specific version requirements, please specify them accordingly.
